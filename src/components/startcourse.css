@@ -1,0 +1,8 @@
+.course{
+    display: flex;
+    flex-direction: row;
+}
+
+#courseImg{
+    height: 86vh;
+}

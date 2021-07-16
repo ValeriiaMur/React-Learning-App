@@ -1,0 +1,28 @@
+.home{
+    display: flex;
+    flex-direction: row;
+    background-color: #a9afc5;
+    justify-content: space-between;
+}
+
+#title{
+    display: flex;
+    flex-direction: column;
+    text-transform: uppercase;
+    align-self: center;
+    justify-self: center;
+    padding: 15%;
+}
+
+#homeImg{
+    display: flex;
+    align-self: flex-end;
+}
+
+#hi{
+    height: 85vh;
+}
+
+h3{
+    color: darkslategray;
+}
